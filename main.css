@@ -1,4 +1,8 @@
 /* Styles for navigation */
+*{
+    border: 2px solid black !important;
+}
+
 nav {
     background-color: #ffffff;
     height: 100px;
@@ -19,7 +23,9 @@ nav .logo img {
     margin-top: 20px;
     margin-left: 200px;
 }
-
+*{
+    border: 2px solid black !important;
+}
 /* Styles for navigation list */
 nav ul {
     list-style: none;
